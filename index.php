@@ -43,7 +43,7 @@
             <div style="text-align: left;">
                 <p>
                     <span>
-                        The VEJ Video Manager can only be accessed from within the UK.
+                        The VEJ Video Manager cannot be accessed right now.
                     </span>
                 </p>
                 <p>
