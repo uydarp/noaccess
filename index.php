@@ -1,62 +1,31 @@
 <?php ?>
-<!DOCTYPE html>
-<html>
-<head lang="en">
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>VEJ Video Manager</title>
-    <link rel="stylesheet" href="styles/avb4gjz-d.css" />
-    <link rel="stylesheet" href="styles/gone-fishing-common.css" />
-    <style>
-        body {
-            background-color: #0cbbee;
-        }
 
-        .logo {
-            background: url(images/Accenture_logo_white_f8991d.svg) no-repeat;
-        }
-
-        .cool-bg {
-            width: 246px;
-            height: 200px;
-            background: url(images/Plug_white.svg) no-repeat;
-        }
-
-        /* smaller screen */
-        @media only screen and (max-width: 768px) {
-            .content {
-                padding-top: 320px;
-            }
-        }
-    </style>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+<title>502 - Web server received an invalid response while acting as a gateway or proxy server.</title>
+<style type="text/css">
+<!--
+body{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}
+fieldset{padding:0 15px 10px 15px;} 
+h1{font-size:2.4em;margin:0;color:#FFF;}
+h2{font-size:1.7em;margin:0;color:#CC0000;} 
+h3{font-size:1.2em;margin:10px 0 0 0;color:#000000;} 
+#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS", Verdana, sans-serif;color:#FFF;
+background-color:#555555;}
+#content{margin:0 0 0 2%;position:relative;}
+.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;}
+-->
+</style>
 </head>
 <body>
-    <div class="logo"></div>
-    <div class="cool-bg"></div>
-    <div class="divTop"><img src="images/logoVEJ.png" /></div>
-    <div class="header"><h3>VEJ Video Manager</h3></div>
-    <div class="verticalAlign"></div>
-    <div class="divAll">
-        
-        <div id='divBody' class="divBody">
-            <div style="text-align: left;">
-                <p>
-                    <span>
-                        The VEJ Video Manager cannot be accessed right now.
-                    </span>
-                </p>
-                <p>
-                    
-                </p>
-                <p style="text-align: center;">
-                    <span > We apologise for any inconvenience this may have caused.</span>
-                </p>	
-                
-            </div>
-        </div>
-        <div id='divBottom' class="divBottom">
-        </div>
-    </div>
+<div id="header"><h1>Server Error</h1></div>
+<div id="content">
+ <div class="content-container"><fieldset>
+  <h2>502 - Web server received an invalid response while acting as a gateway or proxy server.</h2>
+  <h3>There is a problem with the page you are looking for, and it cannot be displayed. When the Web server (while acting as a gateway or proxy) contacted the upstream content server, it received an invalid response from the content server.</h3>
+ </fieldset></div>
+</div>
 </body>
 </html>
